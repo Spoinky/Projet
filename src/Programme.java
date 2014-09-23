@@ -1,7 +1,7 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Programme {
-	private static Scanner clavier;
+	//private static Scanner clavier;
 
 	
 	/**
