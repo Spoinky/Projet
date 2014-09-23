@@ -9,7 +9,7 @@ public class Programme {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		clavier = new Scanner(System.in);
+		//clavier = new Scanner(System.in);
 		
 		//Mode Fenetre
 		Menagerie maMenagerie = new Menagerie();
