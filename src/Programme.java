@@ -11,6 +11,7 @@ public class Programme {
 		// TODO Auto-generated method stub
 		clavier = new Scanner(System.in);
 		
+		//Mode Fenetre
 		Menagerie maMenagerie = new Menagerie();
 		Pgm maFenetre = new Pgm(maMenagerie);
 		
